@@ -9,7 +9,7 @@ catalog-api-repo:
   service_id: githubpublic
   parameters:
     repo_name: "desc-catalog"
-    repo_url: "https://github.com/Wickedpaper/desc-catalog"
+    repo_url: "https://github.com/conciergedevelopers/desc-catalog"
     type: clone
     has_issues: true
 
@@ -17,7 +17,7 @@ orders-api-repo:
   service_id: githubpublic
   parameters:
     repo_name: "desc-orders"
-    repo_url: "https://github.com/Wickedpaper/desc-orders"
+    repo_url: "https://github.com/conciergedevelopers/desc-orders"
     type: clone
     has_issues: true
 
@@ -25,7 +25,7 @@ ui-repo:
   service_id: githubpublic
   parameters:
     repo_name: "clinical-desc-bot"
-    repo_url: "https://github.com/Wickedpaper/desc-bot"
+    repo_url: "https://github.com/conciergedevelopers/desc-bot"
     type: clone
     has_issues: true
 
@@ -33,7 +33,7 @@ dashboard-repo:
   service_id: githubpublic
   parameters:
     repo_name: "clinical-desc-dash"
-    repo_url: "https://github.com/Wickedpaper/desc-bot-dashboard"
+    repo_url: "https://github.com/conciergedevelopers/desc-bot-dashboard"
     type: clone     
     has_issues: true
 
