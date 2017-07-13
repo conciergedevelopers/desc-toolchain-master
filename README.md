@@ -1,6 +1,6 @@
 # Cloud Desc Co. - Toolchain
 
-This toolchain deploys the [Cloud Desc Co.](https://github.com/Conciergedevelopers/cloudco-desc) project.
+This toolchain deploys the [Project Desc](https://github.com/Conciergedevelopers/project-desc) project.
 
 Get started with this project, which is an online desc application that consists of microservices:
 
